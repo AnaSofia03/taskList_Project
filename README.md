@@ -17,6 +17,7 @@
 - Trabalhei com HTML DOM essencialmente e funções básicas - Versão 1.
 - Versão 2 - Criação com função contrutora.
 
+
 - (EN) Use of localStorage.
 - (PT) Uso do localStorage.
 
