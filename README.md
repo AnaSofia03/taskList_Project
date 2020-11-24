@@ -8,10 +8,12 @@
 
 <h6> Javascript</h6>
 (EN)
+
 - I worked with HTML DOM essentially and basic functions - Version 1 (main.js). 
 - Version 2 (main2.js) - With Constructor Function.
 
 (PT)
+
 - Trabalhei com HTML DOM essencialmente e funções básicas - Versão 1.
 - Versão 2 - Criação com função contrutora.
 
